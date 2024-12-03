@@ -133,7 +133,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Contact
 
 For support or inquiries, please contact:
-- **Email:** support@onlinevotingsystem.com
+- **Email:** vinodkumarshahapur@gmail.com
 - **Website:** [www.onlinevotingsystem.com](http://www.onlinevotingsystem.com)
 
 ---
